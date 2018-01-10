@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Min Applikasjon</string>
+    <string name="hello">Hallo Vegard!</string>
+    <string name="open">Åpne nettleser Intent</string>
+    <string name="tekst">vg</string>
+</resources>
